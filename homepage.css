@@ -1,0 +1,142 @@
+
+element.style{
+    overflow-x:hidden ;
+}
+.bg{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+}
+.navbar{
+    height: 70px;
+    width: 98.75vw;
+    background: linear-gradient(to right, #24243ec5, #332f63cb, #0a081eba);
+    color: white;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ol,li{
+    display: inline;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+a:link, a:visited{
+    color: white;
+}
+a:hover, a:active{
+    color: rgb(58, 65, 76);
+}
+.banner{
+    width: 98.75vw;
+    height: 300px;
+}
+.banner1{
+    width: 98.75vw;
+    height: 45px;
+    font-family: Trebuchet MS;
+    font-size: 25px;
+    background-color: #24243ec5;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+h1{
+    font-family: Trebuchet MS;
+    text-align: center;
+    font-size: 300%;
+}
+.prod{
+    font-family: Trebuchet MS;
+    color:#eaecf1;
+    justify-content: center;
+    font-size: 35px;
+    display: flex;
+    padding: 10px;
+    background-color: #161a23bb;
+    width: 80%;
+    border-radius: 5px;
+}
+.prod1{
+    font-family: Trebuchet MS;
+    color:#eaecf1;
+    justify-content: center;
+    font-size: 35px;
+    padding: 30px;
+    margin-top: 20px;
+    background: linear-gradient(to right, #050d22c5, #364b53cb, #07051eba);
+    width: 80%;
+    border-radius: 5px;
+}
+.carousel{
+    align-items: center;
+    width: 570px;
+    height:500px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+}
+.btn1{
+    background-color: #0a152b;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 20px;
+    width: 200px;
+}
+.text{
+    padding: 50px;
+}
+#c1{
+    padding-left: 30px;
+    width: 570px;
+    height: 300px;
+}
+.add1{
+    width: 400px;
+    height: 200px;
+}
+.chkimg{
+    height: 160px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.chk{
+    width: 20px;
+    height: 20px;
+}
+.inputbox{
+    width: 400px;
+    height: 40px;
+}
+.btn2{
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(255, 255, 255, 0);
+    color: white;
+    font-size: 30px;
+}
+.btn2:hover{
+    color: #a3b7de;
+}
+.try{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.foot{
+    width: 98.75vw;
+    height: 1000px;
+    background-color: #151a25c9;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: white;
+}
+.abt{
+    width: 75%;
+    text-align: justify;
+
+}
+.logo{
+    width: 55px;
+}

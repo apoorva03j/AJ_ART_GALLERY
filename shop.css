@@ -1,0 +1,27 @@
+element.style{
+    overflow-x:hidden;
+}
+.bg{
+    background-image: url(bg.jpg);
+}
+.navbar{
+    height: 70px;
+    width: 100vw;
+    background: linear-gradient(to right, #24243ec5, #332f63cb, #0a081eba);
+    color: white;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ol,li{
+    display: inline;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+h1{
+    font-family: Trebuchet MS;
+    text-align: center;
+    font-size: 300%;
+}
